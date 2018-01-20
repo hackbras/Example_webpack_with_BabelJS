@@ -4,7 +4,7 @@
     "description": "",
     "main": "index.js",
     "scripts": {
-        "start": "webpack -w"
+        "start": "webpack -w --colors --display-error-details --progress"
     },
     "keywords": [],
     "author": "",
